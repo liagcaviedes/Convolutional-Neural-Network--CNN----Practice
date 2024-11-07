@@ -142,3 +142,10 @@ This project uses the MNIST dataset and leverages TensorFlow and Keras for model
 
 This project is licensed under the MIT License.
  
+## Author
+Rosalía González Caviedes
+- [Email](rosaliagonzalezc@gmail.com)
+- [Linkedin profile](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+
+## Project Date
+October 2024
